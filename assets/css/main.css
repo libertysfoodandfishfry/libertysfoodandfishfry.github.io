@@ -3126,8 +3126,8 @@ input, select, textarea {
 .menu-list {
     display: grid;
     grid-template-columns: 1fr;
-	margin-left: 10%; /* Increased margin on the right side of the page */
-    margin-right: 10%; /* Increased margin on the right side of the page */
+	margin-left: 5vw; /* Increased margin on the right side of the page */
+    margin-right: 5vw; /* Increased margin on the right side of the page */
 }
 
 .menu-item {
